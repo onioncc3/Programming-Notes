@@ -1,6 +1,7 @@
 本文参考了 https://blog.csdn.net/u012491646/article/details/79688979
 
 小白写的日记帖，欢迎指导。
+
 直接使用mac的terminal进python，想导入一个中文分词的包 jieba。导入成功后，可以通过 pip list 查看包已导入。但是进入到JupyterLab后，仍然无法 import jieba。
 参考了上面的链接后发现，JupyterLab使用的环境和机器的python环境好像并不是一个，JupyterLab的包在另一个地方。在terminal的python里输入
 
